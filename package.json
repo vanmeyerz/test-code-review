@@ -1,0 +1,12 @@
+{
+  "name": "test-code-review",
+  "version": "1.0.0",
+  "description": "Test repository for AI code review bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests yet\""
+  },
+  "keywords": ["test", "ai", "code-review"],
+  "author": "vanmeyerz",
+  "license": "MIT"
+}
