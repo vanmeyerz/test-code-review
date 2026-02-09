@@ -27,3 +27,7 @@ export class UserController {
     return password;
   }
 }
+
+  // Testing webhook integration
+  console.log('Debug: webhook test');
+}
