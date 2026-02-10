@@ -73,3 +73,9 @@ function handlePremiumAdmin(data: any) {
   console.log('Handling premium admin');
   return { success: true };
 }
+
+// Test webhook trigger - $(date)
+export function testWebhookTrigger() {
+  console.log('Testing webhook integration');
+  return true;
+}
