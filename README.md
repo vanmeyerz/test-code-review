@@ -1,2 +1,3 @@
-# Test Code Review Repository
-Test repo for AI code review bot
+# Testing DiffParser Fix
+
+This file triggers violations to test the GitHub line number fix.
