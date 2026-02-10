@@ -29,3 +29,4 @@ export class UserService {
   }
 }
 // Updated to trigger webhook
+// Fixed: Now using PR head SHA instead of blob SHA
